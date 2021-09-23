@@ -9,7 +9,7 @@ function Footer() {
             <img></img>
             <div>
                 <span>
-                    <h3>Departamento</h3>
+                    <h5>Departamento</h5>
                     <span>
                         <a>Bleza e perfumaria</a>
                         <a>Kit mãe&filha</a>
@@ -20,7 +20,7 @@ function Footer() {
                     </span>
                 </span>
                 <span>
-                    <h3>Institucional</h3>
+                    <h5>Institucional</h5>
                     <span>
                         <a>Quem somos</a>
                         <a>Contato</a>
@@ -29,12 +29,12 @@ function Footer() {
                     </span>
                 </span>
                 <span>
-                    <h3>Redes sociais</h3>
+                    <h5>Redes sociais</h5>
                     <a><img></img> bem.menininhaoficial</a>
                     <a><img></img> bem.menininhaoficial</a>
                 </span>
                 <span>
-                    <h3>Central de Ajuda</h3>
+                    <h5>Central de Ajuda</h5>
                     <p>Praia grande - SP
                        <b> (13)98882-9281</b>
                        Segunda a sexta: 8h30 às 22h

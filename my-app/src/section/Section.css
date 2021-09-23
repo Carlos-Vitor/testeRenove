@@ -1,0 +1,29 @@
+section{
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+div button{
+    border-radius: 5px;
+    background-color: transparent;
+    border: 1px solid grey;
+}
+
+#infoProduto{
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    height: 400px;
+    justify-content: space-around;
+    padding: 4px;
+    width: 50%;
+}
+
+#infoProduto img{
+    height: 340px;
+}
+
+#descricaoProduto{
+    background-color: white;
+    border-radius: 5px;
+}
