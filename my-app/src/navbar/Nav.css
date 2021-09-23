@@ -1,0 +1,20 @@
+nav{
+    align-items: center;
+    background-color: #FF7D7D;
+    padding: 0 10px 0 10px;
+    display: flex;
+    height: 4vh;
+    justify-content: space-between;
+}
+
+nav div{
+    display: flex;
+    justify-content: space-around;
+    width: 25%;
+}
+
+.Nav a{
+    color: white;
+    font-size: 10pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
