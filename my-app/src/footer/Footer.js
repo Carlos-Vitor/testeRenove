@@ -4,7 +4,7 @@ import footerImg from './footer.svg';
 function Footer() {
   return (
     <footer className="Footer">
-        <img src={footerImg} className="footerImg" alt="footerImg"></img>
+        <div className="footerImg"><img src={footerImg} alt="footerImg"></img></div>
         <div>
             <img></img>
             <div>

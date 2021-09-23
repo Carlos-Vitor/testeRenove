@@ -3,6 +3,14 @@ footer{
     color: white;
 }
 
+.footerImg{
+    align-items: center;
+    background-color: #FF7D7D;
+    display: flex;
+    height: 80px;
+    justify-content: center;
+}
+
 footer div div{
     display: flex;
     justify-content: space-around;
